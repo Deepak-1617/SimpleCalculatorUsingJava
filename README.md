@@ -15,6 +15,10 @@ A beginner-friendly console calculator built using Java.
 - Java
 - Scanner class
 
+## Output Screenshot
+
+![Calculator Output](screenshots/output.png)
+
 
 ## Author
 
